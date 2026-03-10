@@ -20,10 +20,10 @@ function TotalApp() {
   console.log("Current location:", location?.hash);
 
   const navLinks = [
-    { href: '#ai-demos', text: 'Live AI Tools', icon: 'fas fa-sparkles', highlight: true },
-    { href: '#problem', text: 'The Problem' },
+    // { href: '#ai-demos', text: 'Live AI Tools', icon: 'fas fa-sparkles', highlight: true },
+    // { href: '#problem', text: 'The Problem' },
     { href: '#features', text: 'Product Features' },
-    { href: '#services', text: 'Hosting Services' },
+    { href: '#services', text: 'why CatalystSuite' },
     { href: '#contact', text: 'Contact Sales' }
   ];
 
