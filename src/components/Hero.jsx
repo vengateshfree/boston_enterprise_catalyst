@@ -51,16 +51,16 @@ function Hero() {
 
         <div className="flex flex-col sm:flex-row justify-center gap-5">
           <a
-            href="#ai-demos"
+             href="#features"
             className="px-8 py-4 bg-blue-600 text-white font-bold rounded-xl shadow-lg shadow-blue-600/30 hover:bg-blue-700 hover:shadow-blue-600/40 hover:-translate-y-1 transition-all duration-300"
           >
-            Try Audit Agents
+            View Platform
           </a>
           <a
-            href="#features"
+            href="#contact"
             className="px-8 py-4 bg-white border border-gray-200 text-gray-700 font-semibold rounded-xl hover:bg-blue-50 hover:border-blue-200 hover:text-blue-700 transition shadow-sm"
           >
-            View Platform
+            Request Demo
           </a>
         </div>
 </div>
