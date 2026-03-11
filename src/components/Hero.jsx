@@ -40,7 +40,7 @@ function Hero() {
 
         <h1 className="text-5xl md:text-6xl font-extrabold tracking-tight text-gray-900 mb-8 leading-[1.15]">
           CatalystSuite -
-          <span className="pl-4 text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-indigo-600">
+          <span className="pl-4 text-transparent bg-clip-text bg-blue-600 ">
            Enterprise Infrastructure Monitoring 
           </span> Simplified
         </h1>
